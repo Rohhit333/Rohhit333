@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rohit </h1>
 <h3 align="center">A passionate Learner from India</h3>
-<img align="right" alt="codingimg" width="400px" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
+<img align="right" alt="codingimg" width="400px" src="https://img.freepik.com/premium-photo/web-developer-specialist-web-development-flat-vector-icons-web-developers-vector-background_870512-793.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rohhit333&label=Profile%20views&color=0e75b6&style=flat" alt="snehachaursia" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rohhit333&label=Profile%20views&color=0e75b6&style=flat" alt="Rohit" /> </p>
 
 - 🌱 Currently learning **Development & Open Source**
 - 💻 Tech stack: **HTML, CSS, JavaScript, React, Node.js, Git**
@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rohit-141161257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rohit" height="30" width="40" /></a>
-  <a href="https://github.com/Rohhit333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="snehachaurasia" height="30" width="40" /></a>
+<a href="https://github.com/Rohhit333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="snehachaurasia" height="30" width="40" /></a>
 
 </p>
 
