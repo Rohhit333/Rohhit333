@@ -23,5 +23,5 @@
 
 <p><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rohit333&theme=default" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rohhit333&show_icons=true&locale=en" alt="Rohit" /></p>
+<p>&nbsp; <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohit333&theme=default" /></p>
 
